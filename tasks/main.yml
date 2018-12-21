@@ -23,5 +23,3 @@
     state: present
   ignore_errors: "{{ ansible_check_mode }}"
   when: ansible_os_family == "Debian" or ansible_os_family == "Ubuntu"
-
-- name: test
