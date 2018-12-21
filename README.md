@@ -1,6 +1,8 @@
 Ansible Role: Zabbix Repository
 =========
 
+[![Build Status](https://travis-ci.org/twillin912/ansible-role-repo-zabbix.svg?branch=master)](https://travis-ci.org/twillin912/ansible-role-repo-zabbix)
+
 Installs the offical Zabbix repository.
 
 Requirements
